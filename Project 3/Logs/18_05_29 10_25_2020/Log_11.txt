@@ -1,0 +1,1362 @@
+452 Customers. 2 Regular lanes, 10 Express lanes, 0 Closed lanes. Total cost of operation: 12 units
+Arrival: 1.19 minutes
+Arrival: 3.29 minutes
+Arrival: 5.13 minutes
+Arrival: 7.1 minutes
+Arrival: 8.75 minutes
+Arrival: 8.8 minutes
+Arrival: 9.34 minutes
+Arrival: 10.13 minutes
+Arrival: 10.97 minutes
+End of shopping trip: 12.89 minutes
+Arrival: 13.07 minutes
+Arrival: 14.19 minutes
+Checked out at: 14.190000000000001 minutes
+Arrival: 15.68 minutes
+End of shopping trip: 16.35 minutes
+Checked out at: 18.35 minutes
+End of shopping trip: 19.6 minutes
+Arrival: 20.03 minutes
+Checked out at: 21.5 minutes
+Arrival: 23.0 minutes
+Arrival: 23.11 minutes
+End of shopping trip: 24.09 minutes
+Arrival: 25.8 minutes
+Arrival: 26.14 minutes
+Checked out at: 27.29 minutes
+End of shopping trip: 27.71 minutes
+Arrival: 28.33 minutes
+Arrival: 29.05 minutes
+End of shopping trip: 30.22 minutes
+Checked out at: 31.01 minutes
+Checked out at: 31.52 minutes
+End of shopping trip: 31.730000000000004 minutes
+Arrival: 32.95 minutes
+End of shopping trip: 33.09 minutes
+End of shopping trip: 33.85 minutes
+End of shopping trip: 34.1 minutes
+Arrival: 34.35 minutes
+Checked out at: 34.63 minutes
+End of shopping trip: 34.96 minutes
+Arrival: 35.17 minutes
+Checked out at: 35.25 minutes
+Arrival: 35.89 minutes
+Arrival: 35.94 minutes
+Checked out at: 36.14 minutes
+End of shopping trip: 36.2 minutes
+Checked out at: 36.26 minutes
+End of shopping trip: 36.31 minutes
+End of shopping trip: 36.75 minutes
+Arrival: 37.82 minutes
+Checked out at: 38.300000000000004 minutes
+Checked out at: 38.85 minutes
+End of shopping trip: 38.87 minutes
+Checked out at: 40.07 minutes
+Arrival: 40.32 minutes
+Arrival: 40.52 minutes
+Arrival: 40.72 minutes
+Checked out at: 40.8 minutes
+End of shopping trip: 42.129999999999995 minutes
+Arrival: 42.39 minutes
+Checked out at: 42.660000000000004 minutes
+End of shopping trip: 43.07 minutes
+End of shopping trip: 43.59 minutes
+Arrival: 44.62 minutes
+End of shopping trip: 45.470000000000006 minutes
+Checked out at: 46.970000000000006 minutes
+Arrival: 48.09 minutes
+End of shopping trip: 48.45 minutes
+End of shopping trip: 49.519999999999996 minutes
+Arrival: 49.52 minutes
+Arrival: 49.76 minutes
+Checked out at: 50.050000000000004 minutes
+Arrival: 51.41 minutes
+Checked out at: 52.73 minutes
+Arrival: 52.85 minutes
+Checked out at: 52.92 minutes
+Arrival: 53.56 minutes
+Arrival: 53.57 minutes
+Arrival: 55.42 minutes
+Arrival: 56.22 minutes
+Arrival: 56.52 minutes
+End of shopping trip: 56.82000000000001 minutes
+Checked out at: 56.89 minutes
+End of shopping trip: 58.5 minutes
+Checked out at: 58.720000000000006 minutes
+Checked out at: 59.7 minutes
+Arrival: 60.01 minutes
+Arrival: 60.02 minutes
+End of shopping trip: 60.099999999999994 minutes
+End of shopping trip: 60.81 minutes
+Arrival: 61.36 minutes
+End of shopping trip: 61.42 minutes
+Checked out at: 62.3 minutes
+Arrival: 62.4 minutes
+Checked out at: 62.56999999999999 minutes
+Checked out at: 63.22 minutes
+Arrival: 63.35 minutes
+End of shopping trip: 63.839999999999996 minutes
+Arrival: 64.24 minutes
+End of shopping trip: 65.36 minutes
+Checked out at: 65.94 minutes
+End of shopping trip: 66.06 minutes
+Arrival: 66.11 minutes
+Checked out at: 67.56 minutes
+End of shopping trip: 67.58 minutes
+Arrival: 68.07 minutes
+End of shopping trip: 68.21000000000001 minutes
+Arrival: 68.75 minutes
+Checked out at: 69.28 minutes
+End of shopping trip: 69.46000000000001 minutes
+Arrival: 69.53 minutes
+Arrival: 69.55 minutes
+End of shopping trip: 69.97999999999999 minutes
+Checked out at: 71.06 minutes
+Arrival: 72.0 minutes
+Arrival: 72.87 minutes
+End of shopping trip: 76.43 minutes
+Arrival: 76.58 minutes
+Arrival: 77.32 minutes
+End of shopping trip: 77.6 minutes
+Arrival: 77.68 minutes
+Checked out at: 78.03 minutes
+End of shopping trip: 78.15 minutes
+Checked out at: 78.56 minutes
+End of shopping trip: 78.72 minutes
+Arrival: 79.2 minutes
+End of shopping trip: 79.22 minutes
+Arrival: 79.61 minutes
+End of shopping trip: 79.86 minutes
+End of shopping trip: 80.19 minutes
+Checked out at: 80.39999999999999 minutes
+Arrival: 80.78 minutes
+Checked out at: 81.41 minutes
+End of shopping trip: 81.54 minutes
+Checked out at: 81.55000000000001 minutes
+End of shopping trip: 81.63999999999999 minutes
+End of shopping trip: 81.72 minutes
+End of shopping trip: 82.19 minutes
+Arrival: 82.75 minutes
+Checked out at: 82.96 minutes
+Arrival: 83.03 minutes
+Arrival: 83.5 minutes
+End of shopping trip: 83.57 minutes
+Checked out at: 84.83999999999999 minutes
+Checked out at: 85.04 minutes
+Arrival: 85.64 minutes
+Arrival: 87.12 minutes
+End of shopping trip: 89.05 minutes
+Arrival: 89.58 minutes
+Checked out at: 89.88 minutes
+Arrival: 90.86 minutes
+Checked out at: 90.91000000000001 minutes
+End of shopping trip: 91.36 minutes
+End of shopping trip: 92.36999999999999 minutes
+Checked out at: 92.85 minutes
+End of shopping trip: 92.98 minutes
+End of shopping trip: 93.38 minutes
+Arrival: 93.89 minutes
+Checked out at: 94.26 minutes
+Arrival: 95.56 minutes
+Checked out at: 96.18 minutes
+End of shopping trip: 96.35 minutes
+Checked out at: 96.88 minutes
+Arrival: 97.33 minutes
+End of shopping trip: 98.25 minutes
+End of shopping trip: 100.95 minutes
+End of shopping trip: 101.38 minutes
+End of shopping trip: 101.97 minutes
+Checked out at: 102.12 minutes
+End of shopping trip: 102.16000000000001 minutes
+End of shopping trip: 103.46 minutes
+Arrival: 103.59 minutes
+End of shopping trip: 103.78 minutes
+Arrival: 104.37 minutes
+Arrival: 104.64 minutes
+Checked out at: 105.22 minutes
+End of shopping trip: 105.31 minutes
+End of shopping trip: 105.42 minutes
+Checked out at: 107.05999999999999 minutes
+Checked out at: 107.32 minutes
+End of shopping trip: 107.99 minutes
+Checked out at: 109.32000000000001 minutes
+End of shopping trip: 109.81 minutes
+Arrival: 110.16 minutes
+Arrival: 110.42 minutes
+Arrival: 110.64 minutes
+Arrival: 111.07 minutes
+Checked out at: 111.64 minutes
+End of shopping trip: 111.92 minutes
+Checked out at: 112.07 minutes
+Arrival: 112.23 minutes
+Checked out at: 113.39 minutes
+End of shopping trip: 114.28 minutes
+End of shopping trip: 114.39999999999999 minutes
+Arrival: 114.49 minutes
+End of shopping trip: 115.33 minutes
+End of shopping trip: 115.82 minutes
+Checked out at: 116.12 minutes
+End of shopping trip: 117.03999999999999 minutes
+End of shopping trip: 117.64 minutes
+Checked out at: 118.34 minutes
+Checked out at: 118.89999999999999 minutes
+Checked out at: 119.18 minutes
+Arrival: 119.52 minutes
+Arrival: 119.95 minutes
+Arrival: 120.38 minutes
+Checked out at: 120.63 minutes
+End of shopping trip: 120.96 minutes
+End of shopping trip: 121.96 minutes
+Arrival: 122.59 minutes
+End of shopping trip: 123.89 minutes
+Checked out at: 124.96 minutes
+Checked out at: 124.96 minutes
+End of shopping trip: 125.52000000000001 minutes
+End of shopping trip: 126.13 minutes
+End of shopping trip: 126.22 minutes
+Arrival: 126.47 minutes
+Checked out at: 127.05999999999999 minutes
+End of shopping trip: 127.35 minutes
+End of shopping trip: 127.42 minutes
+Arrival: 127.44 minutes
+End of shopping trip: 128.92000000000002 minutes
+Arrival: 128.94 minutes
+Checked out at: 129.6 minutes
+Arrival: 129.65 minutes
+Arrival: 131.03 minutes
+Checked out at: 131.97 minutes
+End of shopping trip: 131.99 minutes
+Arrival: 132.12 minutes
+Arrival: 132.46 minutes
+Arrival: 132.62 minutes
+Checked out at: 132.82 minutes
+Arrival: 134.6 minutes
+End of shopping trip: 134.61 minutes
+Arrival: 135.16 minutes
+End of shopping trip: 135.85999999999999 minutes
+Checked out at: 137.19 minutes
+Arrival: 137.44 minutes
+End of shopping trip: 138.24 minutes
+Checked out at: 138.55 minutes
+Arrival: 139.47 minutes
+End of shopping trip: 140.78 minutes
+Checked out at: 141.2 minutes
+End of shopping trip: 143.1 minutes
+End of shopping trip: 143.79 minutes
+Checked out at: 143.92000000000002 minutes
+Arrival: 144.29 minutes
+Checked out at: 144.34 minutes
+Arrival: 144.43 minutes
+End of shopping trip: 145.42000000000002 minutes
+End of shopping trip: 145.66 minutes
+Arrival: 145.98 minutes
+Arrival: 146.86 minutes
+Arrival: 147.03 minutes
+End of shopping trip: 147.06 minutes
+Checked out at: 147.48 minutes
+Checked out at: 147.78 minutes
+Arrival: 148.31 minutes
+Arrival: 148.38 minutes
+Checked out at: 148.98000000000002 minutes
+Checked out at: 149.1 minutes
+Checked out at: 150.48999999999998 minutes
+End of shopping trip: 151.48000000000002 minutes
+Arrival: 151.58 minutes
+Arrival: 152.13 minutes
+Arrival: 152.2 minutes
+Checked out at: 152.61 minutes
+Checked out at: 152.76 minutes
+Arrival: 153.05 minutes
+Arrival: 153.31 minutes
+Arrival: 154.43 minutes
+End of shopping trip: 154.79 minutes
+End of shopping trip: 154.87 minutes
+Arrival: 154.92 minutes
+Arrival: 154.93 minutes
+End of shopping trip: 155.23000000000002 minutes
+End of shopping trip: 155.34 minutes
+Arrival: 156.42 minutes
+Arrival: 157.19 minutes
+End of shopping trip: 157.4 minutes
+Checked out at: 157.96 minutes
+Arrival: 158.2 minutes
+End of shopping trip: 159.28 minutes
+Checked out at: 159.91 minutes
+Checked out at: 160.67000000000002 minutes
+End of shopping trip: 161.15 minutes
+Arrival: 161.39 minutes
+Checked out at: 161.69 minutes
+Checked out at: 162.33 minutes
+Arrival: 162.71 minutes
+Arrival: 163.43 minutes
+End of shopping trip: 163.57 minutes
+Arrival: 164.21 minutes
+End of shopping trip: 165.4 minutes
+Arrival: 165.55 minutes
+End of shopping trip: 166.27 minutes
+Checked out at: 166.68 minutes
+Arrival: 167.69 minutes
+Checked out at: 167.95000000000002 minutes
+End of shopping trip: 167.97 minutes
+End of shopping trip: 168.46 minutes
+Checked out at: 169.14 minutes
+Arrival: 171.11 minutes
+Arrival: 171.26 minutes
+Checked out at: 171.87 minutes
+End of shopping trip: 171.89 minutes
+End of shopping trip: 172.24 minutes
+End of shopping trip: 174.18 minutes
+Arrival: 174.51 minutes
+End of shopping trip: 174.53 minutes
+Arrival: 175.04 minutes
+End of shopping trip: 175.32999999999998 minutes
+Checked out at: 175.42 minutes
+End of shopping trip: 176.5 minutes
+End of shopping trip: 176.54999999999998 minutes
+Checked out at: 176.87 minutes
+Arrival: 177.68 minutes
+Checked out at: 179.48999999999998 minutes
+Checked out at: 179.59 minutes
+Checked out at: 179.89 minutes
+Arrival: 179.97 minutes
+End of shopping trip: 181.19 minutes
+Arrival: 181.29 minutes
+Arrival: 182.06 minutes
+Arrival: 182.27 minutes
+End of shopping trip: 182.81 minutes
+Checked out at: 183.64999999999998 minutes
+End of shopping trip: 183.94 minutes
+End of shopping trip: 184.13 minutes
+End of shopping trip: 184.13 minutes
+Checked out at: 184.3 minutes
+Arrival: 185.14 minutes
+End of shopping trip: 185.24 minutes
+Arrival: 185.7 minutes
+End of shopping trip: 186.04 minutes
+Checked out at: 186.13 minutes
+Arrival: 186.41 minutes
+Arrival: 188.41 minutes
+End of shopping trip: 188.5 minutes
+End of shopping trip: 189.44 minutes
+Arrival: 189.66 minutes
+End of shopping trip: 190.05 minutes
+Arrival: 190.08 minutes
+Arrival: 190.31 minutes
+Checked out at: 190.55 minutes
+End of shopping trip: 191.23000000000002 minutes
+Arrival: 191.47 minutes
+End of shopping trip: 191.98999999999998 minutes
+End of shopping trip: 192.45000000000002 minutes
+Checked out at: 192.77 minutes
+Checked out at: 193.74 minutes
+End of shopping trip: 194.65 minutes
+Arrival: 195.61 minutes
+Checked out at: 195.9 minutes
+Checked out at: 195.9 minutes
+Arrival: 196.07 minutes
+End of shopping trip: 196.22 minutes
+Checked out at: 196.47 minutes
+Arrival: 196.82 minutes
+Arrival: 197.44 minutes
+Arrival: 197.95 minutes
+Arrival: 198.36 minutes
+End of shopping trip: 199.69000000000003 minutes
+Arrival: 199.82 minutes
+Checked out at: 200.13000000000002 minutes
+End of shopping trip: 201.89999999999998 minutes
+Arrival: 202.51 minutes
+Checked out at: 202.56000000000003 minutes
+Checked out at: 203.75 minutes
+Checked out at: 204.17000000000002 minutes
+Arrival: 204.33 minutes
+Arrival: 205.04 minutes
+End of shopping trip: 205.35 minutes
+End of shopping trip: 205.44 minutes
+End of shopping trip: 206.01 minutes
+End of shopping trip: 206.25 minutes
+End of shopping trip: 206.48999999999998 minutes
+End of shopping trip: 206.88 minutes
+Arrival: 207.57 minutes
+End of shopping trip: 207.59000000000003 minutes
+End of shopping trip: 207.73 minutes
+Checked out at: 207.89000000000001 minutes
+Arrival: 208.09 minutes
+End of shopping trip: 209.2 minutes
+End of shopping trip: 211.28 minutes
+Arrival: 211.4 minutes
+End of shopping trip: 211.44000000000003 minutes
+Checked out at: 211.7 minutes
+End of shopping trip: 211.83 minutes
+Arrival: 213.55 minutes
+Arrival: 213.83 minutes
+Checked out at: 214.06 minutes
+Arrival: 214.68 minutes
+Arrival: 214.91 minutes
+End of shopping trip: 215.54999999999998 minutes
+End of shopping trip: 215.83 minutes
+Arrival: 215.92 minutes
+Checked out at: 216.04999999999998 minutes
+Checked out at: 216.32000000000005 minutes
+Arrival: 216.8 minutes
+Arrival: 218.53 minutes
+End of shopping trip: 218.56 minutes
+End of shopping trip: 218.61 minutes
+Arrival: 218.97 minutes
+End of shopping trip: 219.22 minutes
+End of shopping trip: 219.3 minutes
+Arrival: 220.17 minutes
+Checked out at: 220.94000000000003 minutes
+Arrival: 221.3 minutes
+End of shopping trip: 221.58 minutes
+End of shopping trip: 221.73 minutes
+Arrival: 221.75 minutes
+Arrival: 222.96 minutes
+Arrival: 223.23 minutes
+Checked out at: 224.73000000000002 minutes
+Checked out at: 226.81 minutes
+Checked out at: 227.38000000000005 minutes
+Checked out at: 227.41000000000003 minutes
+Arrival: 227.52 minutes
+Arrival: 228.33 minutes
+Arrival: 229.23 minutes
+End of shopping trip: 229.35000000000002 minutes
+Arrival: 229.52 minutes
+Arrival: 230.13 minutes
+Arrival: 231.02 minutes
+Arrival: 231.47 minutes
+End of shopping trip: 231.65 minutes
+Arrival: 231.69 minutes
+Checked out at: 232.32999999999998 minutes
+End of shopping trip: 232.59 minutes
+Arrival: 233.01 minutes
+End of shopping trip: 234.18 minutes
+End of shopping trip: 234.99 minutes
+End of shopping trip: 235.88 minutes
+End of shopping trip: 235.89 minutes
+End of shopping trip: 236.10000000000002 minutes
+Arrival: 236.32 minutes
+End of shopping trip: 236.61 minutes
+Checked out at: 237.45000000000005 minutes
+Arrival: 237.99 minutes
+End of shopping trip: 239.63 minutes
+End of shopping trip: 240.24 minutes
+End of shopping trip: 240.89 minutes
+Checked out at: 240.94 minutes
+Checked out at: 241.15 minutes
+Arrival: 242.07 minutes
+Arrival: 242.29 minutes
+End of shopping trip: 242.87 minutes
+Checked out at: 243.39000000000001 minutes
+Arrival: 243.48 minutes
+Arrival: 244.52 minutes
+End of shopping trip: 244.57000000000002 minutes
+Arrival: 244.58 minutes
+End of shopping trip: 244.64999999999998 minutes
+Checked out at: 245.57999999999998 minutes
+Checked out at: 245.69 minutes
+Arrival: 245.71 minutes
+End of shopping trip: 245.9 minutes
+End of shopping trip: 246.31 minutes
+End of shopping trip: 246.31 minutes
+Arrival: 246.67 minutes
+Arrival: 246.82 minutes
+Checked out at: 247.29 minutes
+End of shopping trip: 247.41 minutes
+Arrival: 247.84 minutes
+Arrival: 247.97 minutes
+End of shopping trip: 248.23999999999998 minutes
+Arrival: 248.63 minutes
+End of shopping trip: 248.66 minutes
+Arrival: 248.71 minutes
+End of shopping trip: 248.89000000000001 minutes
+Arrival: 249.67 minutes
+End of shopping trip: 249.67000000000002 minutes
+End of shopping trip: 250.03 minutes
+End of shopping trip: 250.67 minutes
+Checked out at: 251.12000000000003 minutes
+End of shopping trip: 251.96 minutes
+Arrival: 252.01 minutes
+Arrival: 252.87 minutes
+Arrival: 254.18 minutes
+Arrival: 254.37 minutes
+End of shopping trip: 254.64999999999998 minutes
+Checked out at: 255.57 minutes
+Checked out at: 255.8 minutes
+Arrival: 255.86 minutes
+Arrival: 256.47 minutes
+End of shopping trip: 256.71999999999997 minutes
+End of shopping trip: 256.74 minutes
+End of shopping trip: 256.97 minutes
+Arrival: 257.1 minutes
+End of shopping trip: 257.44 minutes
+End of shopping trip: 259.12 minutes
+Checked out at: 259.44 minutes
+Checked out at: 260.03 minutes
+Checked out at: 260.07 minutes
+End of shopping trip: 260.72 minutes
+End of shopping trip: 261.51 minutes
+Checked out at: 262.09000000000003 minutes
+Checked out at: 262.96000000000004 minutes
+Checked out at: 262.96999999999997 minutes
+Checked out at: 263.16 minutes
+Arrival: 263.54 minutes
+Arrival: 263.86 minutes
+End of shopping trip: 264.06 minutes
+End of shopping trip: 264.68 minutes
+Arrival: 265.69 minutes
+End of shopping trip: 266.33 minutes
+End of shopping trip: 266.45000000000005 minutes
+End of shopping trip: 266.73 minutes
+Arrival: 266.89 minutes
+Checked out at: 267.04999999999995 minutes
+End of shopping trip: 268.17 minutes
+Arrival: 268.41 minutes
+End of shopping trip: 268.43 minutes
+Checked out at: 268.73 minutes
+Checked out at: 269.77000000000004 minutes
+Arrival: 269.86 minutes
+End of shopping trip: 270.1 minutes
+Checked out at: 270.72 minutes
+Checked out at: 273.03000000000003 minutes
+Arrival: 273.9 minutes
+End of shopping trip: 274.26 minutes
+End of shopping trip: 274.27 minutes
+End of shopping trip: 274.57 minutes
+Arrival: 275.75 minutes
+Arrival: 277.48 minutes
+End of shopping trip: 277.56 minutes
+End of shopping trip: 277.71999999999997 minutes
+Checked out at: 277.98 minutes
+Checked out at: 278.18 minutes
+End of shopping trip: 278.21 minutes
+Checked out at: 278.49 minutes
+Arrival: 279.27 minutes
+Checked out at: 280.13 minutes
+End of shopping trip: 280.89000000000004 minutes
+Arrival: 281.03 minutes
+Checked out at: 281.37 minutes
+End of shopping trip: 282.03 minutes
+End of shopping trip: 282.09 minutes
+Checked out at: 282.3 minutes
+Arrival: 283.58 minutes
+Arrival: 283.8 minutes
+End of shopping trip: 283.98 minutes
+Arrival: 284.4 minutes
+Arrival: 285.5 minutes
+Checked out at: 285.54 minutes
+End of shopping trip: 285.57 minutes
+Arrival: 286.5 minutes
+End of shopping trip: 286.55 minutes
+Arrival: 287.47 minutes
+Arrival: 287.76 minutes
+Arrival: 287.81 minutes
+End of shopping trip: 288.57 minutes
+Checked out at: 288.86 minutes
+End of shopping trip: 289.24 minutes
+End of shopping trip: 289.55 minutes
+Checked out at: 290.61 minutes
+Checked out at: 290.84000000000003 minutes
+Checked out at: 295.39000000000004 minutes
+End of shopping trip: 295.46 minutes
+End of shopping trip: 295.72 minutes
+Checked out at: 295.78 minutes
+Arrival: 296.01 minutes
+End of shopping trip: 296.15999999999997 minutes
+Arrival: 296.7 minutes
+End of shopping trip: 297.0 minutes
+End of shopping trip: 297.02 minutes
+End of shopping trip: 297.33 minutes
+End of shopping trip: 298.18 minutes
+Checked out at: 298.40000000000003 minutes
+Checked out at: 298.46999999999997 minutes
+End of shopping trip: 299.91 minutes
+End of shopping trip: 300.38 minutes
+Checked out at: 300.45 minutes
+Arrival: 301.64 minutes
+End of shopping trip: 301.97 minutes
+Arrival: 302.59 minutes
+End of shopping trip: 303.73999999999995 minutes
+End of shopping trip: 303.9 minutes
+Checked out at: 304.54 minutes
+Arrival: 305.15 minutes
+Checked out at: 305.15000000000003 minutes
+Arrival: 306.46 minutes
+Arrival: 308.62 minutes
+Checked out at: 309.02000000000004 minutes
+Checked out at: 309.96 minutes
+Checked out at: 310.59 minutes
+Arrival: 310.97 minutes
+Checked out at: 311.83 minutes
+End of shopping trip: 312.29 minutes
+End of shopping trip: 312.52 minutes
+End of shopping trip: 315.88 minutes
+End of shopping trip: 317.42 minutes
+End of shopping trip: 317.65 minutes
+End of shopping trip: 318.43999999999994 minutes
+Checked out at: 318.63999999999993 minutes
+Arrival: 318.88 minutes
+Checked out at: 319.22 minutes
+Checked out at: 320.84000000000003 minutes
+Arrival: 320.91 minutes
+End of shopping trip: 323.3 minutes
+Checked out at: 325.5 minutes
+Arrival: 325.52 minutes
+End of shopping trip: 326.35 minutes
+Checked out at: 326.52 minutes
+Checked out at: 326.69 minutes
+Arrival: 327.31 minutes
+Arrival: 328.77 minutes
+Arrival: 330.33 minutes
+Checked out at: 330.82 minutes
+Checked out at: 331.03 minutes
+End of shopping trip: 331.14 minutes
+End of shopping trip: 331.52 minutes
+Arrival: 332.06 minutes
+Arrival: 332.08 minutes
+Checked out at: 332.41 minutes
+End of shopping trip: 333.07 minutes
+Arrival: 333.15 minutes
+Arrival: 333.94 minutes
+End of shopping trip: 335.19 minutes
+Checked out at: 335.88 minutes
+Checked out at: 335.94 minutes
+End of shopping trip: 337.43 minutes
+End of shopping trip: 338.06 minutes
+Arrival: 340.49 minutes
+Arrival: 341.44 minutes
+Checked out at: 341.44000000000005 minutes
+Checked out at: 342.25 minutes
+Checked out at: 342.93 minutes
+End of shopping trip: 343.27 minutes
+Checked out at: 345.91999999999996 minutes
+Arrival: 346.8 minutes
+End of shopping trip: 347.08 minutes
+End of shopping trip: 347.08 minutes
+Checked out at: 347.20000000000005 minutes
+Arrival: 347.55 minutes
+Checked out at: 348.37 minutes
+Arrival: 348.81 minutes
+Checked out at: 350.35 minutes
+Checked out at: 350.89 minutes
+Arrival: 351.13 minutes
+End of shopping trip: 351.6 minutes
+Arrival: 352.52 minutes
+Arrival: 353.22 minutes
+Arrival: 353.48 minutes
+Checked out at: 353.83000000000004 minutes
+Arrival: 354.33 minutes
+End of shopping trip: 354.85999999999996 minutes
+Arrival: 355.48 minutes
+Arrival: 355.75 minutes
+End of shopping trip: 358.18 minutes
+Checked out at: 358.57 minutes
+Checked out at: 358.97 minutes
+End of shopping trip: 361.13 minutes
+End of shopping trip: 362.05 minutes
+Checked out at: 363.18 minutes
+Arrival: 363.19 minutes
+Checked out at: 363.61 minutes
+End of shopping trip: 363.93 minutes
+End of shopping trip: 365.52 minutes
+Arrival: 366.3 minutes
+Arrival: 366.62 minutes
+Arrival: 366.9 minutes
+End of shopping trip: 367.82 minutes
+Arrival: 368.07 minutes
+Arrival: 369.59 minutes
+End of shopping trip: 369.75 minutes
+End of shopping trip: 371.26 minutes
+End of shopping trip: 371.57 minutes
+Arrival: 373.31 minutes
+Arrival: 374.6 minutes
+Checked out at: 374.78000000000003 minutes
+Arrival: 375.02 minutes
+Arrival: 375.18 minutes
+Arrival: 375.32 minutes
+End of shopping trip: 376.93 minutes
+Arrival: 377.61 minutes
+Checked out at: 378.35 minutes
+End of shopping trip: 378.38 minutes
+End of shopping trip: 379.06 minutes
+End of shopping trip: 379.13 minutes
+Arrival: 379.18 minutes
+Arrival: 379.29 minutes
+End of shopping trip: 380.12 minutes
+End of shopping trip: 381.25 minutes
+End of shopping trip: 381.31 minutes
+Checked out at: 383.02 minutes
+End of shopping trip: 383.06 minutes
+Arrival: 383.39 minutes
+Arrival: 384.12 minutes
+Checked out at: 384.45 minutes
+End of shopping trip: 385.01 minutes
+Arrival: 387.77 minutes
+Arrival: 387.97 minutes
+End of shopping trip: 388.31 minutes
+Arrival: 388.46 minutes
+Arrival: 389.45 minutes
+Arrival: 390.51 minutes
+Arrival: 393.19 minutes
+Checked out at: 394.83 minutes
+End of shopping trip: 395.0 minutes
+Checked out at: 395.78 minutes
+Arrival: 395.92 minutes
+Arrival: 396.22 minutes
+End of shopping trip: 397.03 minutes
+End of shopping trip: 397.5 minutes
+Arrival: 398.01 minutes
+Arrival: 398.1 minutes
+End of shopping trip: 399.0 minutes
+End of shopping trip: 399.19 minutes
+End of shopping trip: 399.72 minutes
+Arrival: 401.29 minutes
+Arrival: 401.49 minutes
+Arrival: 402.03 minutes
+Checked out at: 402.40999999999997 minutes
+End of shopping trip: 403.36 minutes
+End of shopping trip: 403.45 minutes
+End of shopping trip: 404.05 minutes
+Arrival: 404.17 minutes
+Arrival: 404.19 minutes
+End of shopping trip: 405.12 minutes
+Checked out at: 405.61 minutes
+Checked out at: 405.61 minutes
+End of shopping trip: 408.15000000000003 minutes
+End of shopping trip: 408.6 minutes
+Arrival: 408.87 minutes
+Arrival: 409.34 minutes
+End of shopping trip: 409.83 minutes
+End of shopping trip: 410.23 minutes
+Arrival: 410.77 minutes
+Arrival: 411.08 minutes
+End of shopping trip: 411.49 minutes
+Arrival: 411.63 minutes
+Arrival: 412.02 minutes
+End of shopping trip: 412.14 minutes
+End of shopping trip: 413.73 minutes
+Arrival: 413.79 minutes
+Arrival: 414.12 minutes
+End of shopping trip: 414.55 minutes
+Arrival: 415.17 minutes
+Checked out at: 415.79 minutes
+Arrival: 416.96 minutes
+Arrival: 418.36 minutes
+Arrival: 418.38 minutes
+End of shopping trip: 419.07 minutes
+Arrival: 421.04 minutes
+Checked out at: 421.16 minutes
+End of shopping trip: 423.22999999999996 minutes
+End of shopping trip: 423.32 minutes
+End of shopping trip: 423.71 minutes
+Arrival: 424.06 minutes
+Checked out at: 424.41 minutes
+Arrival: 424.49 minutes
+Arrival: 425.59 minutes
+Arrival: 426.18 minutes
+End of shopping trip: 427.27 minutes
+Checked out at: 427.72999999999996 minutes
+End of shopping trip: 430.69 minutes
+End of shopping trip: 431.16 minutes
+End of shopping trip: 431.17999999999995 minutes
+End of shopping trip: 432.11 minutes
+Arrival: 432.52 minutes
+End of shopping trip: 432.83 minutes
+Arrival: 433.35 minutes
+End of shopping trip: 433.5 minutes
+End of shopping trip: 433.54 minutes
+End of shopping trip: 433.78 minutes
+End of shopping trip: 434.06 minutes
+Arrival: 435.74 minutes
+Checked out at: 435.87 minutes
+Arrival: 436.83 minutes
+Arrival: 437.2 minutes
+Arrival: 438.35 minutes
+End of shopping trip: 438.71000000000004 minutes
+Arrival: 439.1 minutes
+Arrival: 439.27 minutes
+Checked out at: 439.83 minutes
+End of shopping trip: 440.90999999999997 minutes
+Arrival: 442.33 minutes
+Checked out at: 442.71999999999997 minutes
+End of shopping trip: 444.57 minutes
+Arrival: 445.37 minutes
+End of shopping trip: 446.27 minutes
+End of shopping trip: 446.41999999999996 minutes
+End of shopping trip: 446.87 minutes
+Arrival: 447.61 minutes
+Checked out at: 448.39 minutes
+End of shopping trip: 448.62 minutes
+End of shopping trip: 449.31 minutes
+Arrival: 449.53 minutes
+Arrival: 449.53 minutes
+Arrival: 449.64 minutes
+End of shopping trip: 450.39 minutes
+Checked out at: 451.83 minutes
+End of shopping trip: 451.88 minutes
+Checked out at: 452.4 minutes
+Checked out at: 452.46 minutes
+End of shopping trip: 453.83 minutes
+End of shopping trip: 454.65 minutes
+End of shopping trip: 454.81 minutes
+End of shopping trip: 454.84999999999997 minutes
+End of shopping trip: 456.40000000000003 minutes
+Arrival: 457.41 minutes
+Checked out at: 457.91 minutes
+Arrival: 457.93 minutes
+Arrival: 459.84 minutes
+End of shopping trip: 462.79 minutes
+End of shopping trip: 462.92999999999995 minutes
+Arrival: 465.65 minutes
+Checked out at: 467.27 minutes
+Checked out at: 468.22 minutes
+End of shopping trip: 469.46999999999997 minutes
+Arrival: 470.72 minutes
+Checked out at: 473.15 minutes
+End of shopping trip: 473.15999999999997 minutes
+End of shopping trip: 473.36 minutes
+Checked out at: 473.41 minutes
+Arrival: 473.9 minutes
+End of shopping trip: 475.32000000000005 minutes
+End of shopping trip: 475.34000000000003 minutes
+End of shopping trip: 475.81 minutes
+End of shopping trip: 477.12 minutes
+Arrival: 477.84 minutes
+Arrival: 482.55 minutes
+End of shopping trip: 482.59000000000003 minutes
+End of shopping trip: 483.57 minutes
+Checked out at: 484.3299999999999 minutes
+End of shopping trip: 485.45000000000005 minutes
+Arrival: 486.28 minutes
+Arrival: 486.78 minutes
+Arrival: 490.03 minutes
+Checked out at: 493.16 minutes
+Checked out at: 495.72 minutes
+End of shopping trip: 496.19 minutes
+Arrival: 496.9 minutes
+Arrival: 497.81 minutes
+Arrival: 498.24 minutes
+End of shopping trip: 498.84 minutes
+Arrival: 500.33 minutes
+End of shopping trip: 503.05 minutes
+Arrival: 503.75 minutes
+End of shopping trip: 506.64 minutes
+Arrival: 508.59 minutes
+End of shopping trip: 509.15000000000003 minutes
+Arrival: 511.3 minutes
+End of shopping trip: 511.71 minutes
+Arrival: 512.01 minutes
+End of shopping trip: 512.21 minutes
+Arrival: 513.11 minutes
+End of shopping trip: 513.84 minutes
+Arrival: 514.07 minutes
+Arrival: 514.1 minutes
+Arrival: 514.41 minutes
+End of shopping trip: 516.48 minutes
+Checked out at: 517.19 minutes
+Arrival: 518.7 minutes
+Arrival: 519.89 minutes
+End of shopping trip: 520.04 minutes
+End of shopping trip: 522.51 minutes
+Arrival: 522.81 minutes
+Arrival: 523.86 minutes
+Arrival: 528.54 minutes
+End of shopping trip: 530.34 minutes
+Arrival: 531.5 minutes
+Checked out at: 531.71 minutes
+Arrival: 531.82 minutes
+End of shopping trip: 531.83 minutes
+End of shopping trip: 532.48 minutes
+Arrival: 532.85 minutes
+Arrival: 533.25 minutes
+Checked out at: 533.61 minutes
+Arrival: 534.31 minutes
+Arrival: 534.61 minutes
+Checked out at: 535.44 minutes
+End of shopping trip: 536.13 minutes
+Arrival: 536.52 minutes
+End of shopping trip: 537.09 minutes
+Arrival: 537.36 minutes
+End of shopping trip: 537.49 minutes
+Arrival: 539.14 minutes
+Arrival: 539.21 minutes
+Arrival: 539.8 minutes
+End of shopping trip: 540.14 minutes
+Arrival: 540.75 minutes
+End of shopping trip: 541.48 minutes
+Arrival: 541.53 minutes
+End of shopping trip: 541.7099999999999 minutes
+End of shopping trip: 543.2 minutes
+End of shopping trip: 543.26 minutes
+End of shopping trip: 544.06 minutes
+End of shopping trip: 544.5 minutes
+Arrival: 544.93 minutes
+End of shopping trip: 547.02 minutes
+End of shopping trip: 547.07 minutes
+Arrival: 549.91 minutes
+End of shopping trip: 550.1 minutes
+Arrival: 550.93 minutes
+Arrival: 551.35 minutes
+End of shopping trip: 551.5899999999999 minutes
+Checked out at: 552.0400000000001 minutes
+End of shopping trip: 552.46 minutes
+End of shopping trip: 552.5699999999999 minutes
+Arrival: 553.01 minutes
+Arrival: 553.33 minutes
+Arrival: 553.8 minutes
+Arrival: 554.93 minutes
+End of shopping trip: 555.89 minutes
+Checked out at: 555.93 minutes
+End of shopping trip: 556.01 minutes
+Checked out at: 556.7900000000001 minutes
+End of shopping trip: 557.86 minutes
+Arrival: 558.52 minutes
+End of shopping trip: 558.6 minutes
+End of shopping trip: 559.59 minutes
+End of shopping trip: 560.3199999999999 minutes
+Arrival: 560.74 minutes
+Arrival: 561.27 minutes
+Arrival: 562.1 minutes
+Checked out at: 563.0099999999999 minutes
+Arrival: 563.63 minutes
+Checked out at: 563.98 minutes
+Arrival: 564.06 minutes
+Arrival: 564.08 minutes
+End of shopping trip: 564.15 minutes
+End of shopping trip: 565.28 minutes
+Checked out at: 566.06 minutes
+Arrival: 566.48 minutes
+End of shopping trip: 566.64 minutes
+Checked out at: 567.2 minutes
+Arrival: 567.25 minutes
+End of shopping trip: 567.9599999999999 minutes
+Arrival: 568.34 minutes
+Checked out at: 569.02 minutes
+Arrival: 569.64 minutes
+End of shopping trip: 571.0600000000001 minutes
+Arrival: 571.46 minutes
+Checked out at: 574.8899999999999 minutes
+Checked out at: 575.3699999999999 minutes
+Arrival: 575.64 minutes
+End of shopping trip: 575.7 minutes
+End of shopping trip: 576.4499999999999 minutes
+Arrival: 576.61 minutes
+End of shopping trip: 577.0 minutes
+Checked out at: 577.31 minutes
+End of shopping trip: 577.76 minutes
+Arrival: 578.78 minutes
+Arrival: 579.22 minutes
+Arrival: 579.23 minutes
+Checked out at: 579.79 minutes
+Checked out at: 581.2199999999999 minutes
+End of shopping trip: 582.04 minutes
+Arrival: 582.87 minutes
+Arrival: 583.31 minutes
+End of shopping trip: 583.39 minutes
+End of shopping trip: 583.46 minutes
+End of shopping trip: 583.61 minutes
+Arrival: 583.76 minutes
+Arrival: 585.84 minutes
+End of shopping trip: 586.3399999999999 minutes
+End of shopping trip: 586.88 minutes
+Arrival: 587.37 minutes
+End of shopping trip: 587.99 minutes
+End of shopping trip: 588.36 minutes
+Arrival: 588.48 minutes
+Arrival: 588.55 minutes
+Checked out at: 589.0799999999999 minutes
+Arrival: 589.37 minutes
+End of shopping trip: 589.5799999999999 minutes
+Checked out at: 589.9399999999999 minutes
+End of shopping trip: 590.1 minutes
+End of shopping trip: 590.32 minutes
+Arrival: 593.23 minutes
+End of shopping trip: 593.4 minutes
+End of shopping trip: 593.74 minutes
+End of shopping trip: 594.49 minutes
+End of shopping trip: 594.51 minutes
+Arrival: 595.0 minutes
+Arrival: 595.73 minutes
+End of shopping trip: 595.76 minutes
+Arrival: 595.91 minutes
+Arrival: 598.6 minutes
+Arrival: 598.69 minutes
+Arrival: 599.16 minutes
+Arrival: 599.25 minutes
+Arrival: 599.26 minutes
+End of shopping trip: 599.39 minutes
+Arrival: 599.93 minutes
+Arrival: 600.46 minutes
+Arrival: 600.66 minutes
+Checked out at: 601.26 minutes
+End of shopping trip: 601.3599999999999 minutes
+End of shopping trip: 601.8100000000001 minutes
+End of shopping trip: 602.14 minutes
+Arrival: 603.9 minutes
+End of shopping trip: 605.1800000000001 minutes
+End of shopping trip: 605.1999999999999 minutes
+Arrival: 605.41 minutes
+Arrival: 605.88 minutes
+Arrival: 606.24 minutes
+Arrival: 606.26 minutes
+Checked out at: 606.74 minutes
+Checked out at: 607.49 minutes
+End of shopping trip: 607.95 minutes
+Checked out at: 608.41 minutes
+End of shopping trip: 609.24 minutes
+End of shopping trip: 610.15 minutes
+End of shopping trip: 610.59 minutes
+Checked out at: 611.58 minutes
+End of shopping trip: 611.76 minutes
+Checked out at: 613.4200000000001 minutes
+End of shopping trip: 613.63 minutes
+Arrival: 613.66 minutes
+Arrival: 613.8 minutes
+Arrival: 614.0 minutes
+Arrival: 614.94 minutes
+Checked out at: 615.8000000000001 minutes
+End of shopping trip: 615.9 minutes
+Checked out at: 616.1999999999999 minutes
+End of shopping trip: 616.28 minutes
+Arrival: 617.67 minutes
+End of shopping trip: 618.49 minutes
+End of shopping trip: 618.63 minutes
+Arrival: 619.03 minutes
+Checked out at: 619.21 minutes
+End of shopping trip: 619.91 minutes
+Checked out at: 620.09 minutes
+Arrival: 620.88 minutes
+Checked out at: 621.06 minutes
+End of shopping trip: 621.15 minutes
+End of shopping trip: 621.53 minutes
+End of shopping trip: 621.75 minutes
+End of shopping trip: 621.8000000000001 minutes
+Arrival: 622.0 minutes
+End of shopping trip: 622.93 minutes
+Arrival: 623.39 minutes
+Arrival: 623.7 minutes
+Arrival: 624.9 minutes
+Checked out at: 625.89 minutes
+Checked out at: 627.4399999999999 minutes
+End of shopping trip: 628.94 minutes
+End of shopping trip: 632.74 minutes
+End of shopping trip: 633.65 minutes
+End of shopping trip: 634.43 minutes
+Arrival: 634.94 minutes
+Checked out at: 635.44 minutes
+Arrival: 636.59 minutes
+Checked out at: 636.7900000000001 minutes
+Arrival: 637.43 minutes
+End of shopping trip: 637.86 minutes
+End of shopping trip: 637.9100000000001 minutes
+End of shopping trip: 638.32 minutes
+End of shopping trip: 640.63 minutes
+End of shopping trip: 640.75 minutes
+End of shopping trip: 641.24 minutes
+Checked out at: 641.33 minutes
+Arrival: 641.97 minutes
+Arrival: 642.1 minutes
+End of shopping trip: 642.3 minutes
+End of shopping trip: 644.38 minutes
+Arrival: 644.87 minutes
+Arrival: 644.9 minutes
+Arrival: 645.29 minutes
+Checked out at: 645.65 minutes
+Arrival: 645.66 minutes
+Checked out at: 646.3000000000001 minutes
+End of shopping trip: 647.49 minutes
+Arrival: 647.53 minutes
+End of shopping trip: 648.9599999999999 minutes
+End of shopping trip: 650.2099999999999 minutes
+Arrival: 651.77 minutes
+End of shopping trip: 653.1899999999999 minutes
+End of shopping trip: 654.97 minutes
+End of shopping trip: 655.13 minutes
+Arrival: 655.46 minutes
+Arrival: 655.53 minutes
+Checked out at: 655.94 minutes
+Arrival: 656.92 minutes
+Arrival: 657.15 minutes
+Arrival: 658.16 minutes
+Arrival: 660.52 minutes
+Arrival: 660.88 minutes
+Checked out at: 660.93 minutes
+End of shopping trip: 660.96 minutes
+End of shopping trip: 660.96 minutes
+Arrival: 661.95 minutes
+End of shopping trip: 663.42 minutes
+End of shopping trip: 664.2 minutes
+End of shopping trip: 665.0799999999999 minutes
+Checked out at: 665.36 minutes
+Checked out at: 665.71 minutes
+Checked out at: 665.82 minutes
+End of shopping trip: 665.95 minutes
+Arrival: 668.32 minutes
+End of shopping trip: 669.21 minutes
+End of shopping trip: 670.15 minutes
+Arrival: 670.44 minutes
+Arrival: 670.68 minutes
+Checked out at: 671.78 minutes
+End of shopping trip: 672.8 minutes
+End of shopping trip: 672.93 minutes
+Arrival: 674.77 minutes
+Checked out at: 675.49 minutes
+End of shopping trip: 677.0100000000001 minutes
+End of shopping trip: 677.17 minutes
+Arrival: 677.75 minutes
+Checked out at: 679.6899999999999 minutes
+Checked out at: 679.81 minutes
+Arrival: 680.27 minutes
+End of shopping trip: 680.31 minutes
+Arrival: 680.37 minutes
+Checked out at: 681.23 minutes
+Arrival: 681.35 minutes
+End of shopping trip: 681.66 minutes
+Arrival: 682.05 minutes
+Arrival: 684.94 minutes
+End of shopping trip: 684.9799999999999 minutes
+End of shopping trip: 685.77 minutes
+End of shopping trip: 688.0600000000001 minutes
+End of shopping trip: 688.11 minutes
+End of shopping trip: 690.22 minutes
+End of shopping trip: 690.96 minutes
+Arrival: 691.82 minutes
+Checked out at: 691.92 minutes
+Checked out at: 692.1 minutes
+End of shopping trip: 692.87 minutes
+Arrival: 693.52 minutes
+End of shopping trip: 693.65 minutes
+Checked out at: 694.78 minutes
+Arrival: 695.06 minutes
+Checked out at: 695.25 minutes
+Arrival: 695.62 minutes
+End of shopping trip: 696.67 minutes
+Arrival: 697.95 minutes
+Checked out at: 698.8100000000001 minutes
+Arrival: 699.58 minutes
+Arrival: 700.21 minutes
+End of shopping trip: 700.5200000000001 minutes
+Arrival: 700.62 minutes
+End of shopping trip: 701.54 minutes
+Arrival: 703.28 minutes
+Arrival: 704.25 minutes
+Arrival: 704.46 minutes
+End of shopping trip: 705.5400000000001 minutes
+Checked out at: 706.3100000000001 minutes
+End of shopping trip: 706.7800000000001 minutes
+End of shopping trip: 707.36 minutes
+End of shopping trip: 709.3 minutes
+End of shopping trip: 710.49 minutes
+Arrival: 711.58 minutes
+End of shopping trip: 712.77 minutes
+End of shopping trip: 713.26 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+Checked out at: 714.9799999999999 minutes
+End of shopping trip: 716.09 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.1600000000001 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+Checked out at: 716.67 minutes
+End of shopping trip: 717.97 minutes
+Arrival: 718.47 minutes
+End of shopping trip: 719.25 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+Checked out at: 721.75 minutes
+End of shopping trip: 725.02 minutes
+End of shopping trip: 730.59 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.0200000000001 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+Checked out at: 731.24 minutes
+End of shopping trip: 731.82 minutes
+End of shopping trip: 736.0699999999999 minutes
+End of shopping trip: 737.31 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.34 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 737.8800000000001 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 742.29 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+Checked out at: 743.86 minutes
+End of shopping trip: 752.07 minutes
+End of shopping trip: 758.85 minutes
+Finished Log 11
